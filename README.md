@@ -17,11 +17,11 @@
 
 ## 🚀 About Me / Sobre mim
 
-[cite_start]I'm **Marcus Vinícius**, a **Full Stack Developer** with over 5 years of experience building high-performance, scalable solutions[cite: 6].  
-[cite_start]My passion is optimizing application performance, planning efficient architectures (**Clean Architecture** & **Clean Code**), and translating business needs into robust technical solutions[cite: 7, 8].  
+I'm **Marcus Vinícius**, a **Full Stack Developer** with over 5 years of experience building high-performance, scalable solutions.  
+My passion is optimizing application performance, planning efficient architectures (**Clean Architecture** & **Clean Code**), and translating business needs into robust technical solutions.  
 
-> [cite_start]🇧🇷 Sou **Desenvolvedor Full Stack** com mais de 5 anos de experiência [cite: 6][cite_start], focado na construção de soluções escaláveis e de alta performance[cite: 6].  
-> [cite_start]Minha paixão é otimizar a performance de aplicações, planejar arquiteturas eficientes com princípios de **Clean Architecture** e **Clean Code** [cite: 8][cite_start], e entregar projetos que geram impacto direto para o negócio[cite: 8].
+> 🇧🇷 Sou **Desenvolvedor Full Stack** com mais de 5 anos de experiência, focado na construção de soluções escaláveis e de alta performance.  
+> Minha paixão é otimizar a performance de aplicações, planejar arquiteturas eficientes com princípios de **Clean Architecture** e **Clean Code**, e entregar projetos que geram impacto direto para o negócio.
 
 Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**, combining a sharp focus on front-end user experience with robust back-end architecture.
 
@@ -29,11 +29,11 @@ Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**,
 
 ## 💡 Key Skills / Habilidades Principais
 
-- [cite_start]🧱 Arquitetura eficiente (Clean Architecture & Clean Code) [cite: 8]
-- [cite_start]⚡ Otimização de performance de aplicações (Server-Side Rendering, Lazy Loading) [cite: 8, 12, 22]
-- [cite_start]⚙️ Criação de Design Systems e bibliotecas de componentes reutilizáveis [cite: 14, 39]
-- [cite_start]🔄 Controle de versão com Git e BitBucket [cite: 35, 57]
-- [cite_start]🤝 Colaboração em times ágeis (SCRUM & Kanban) [cite: 36]
+- 🧱 Arquitetura eficiente (Clean Architecture & Clean Code)
+- ⚡ Otimização de performance de aplicações (Server-Side Rendering, Lazy Loading)
+- ⚙️ Criação de Design Systems e bibliotecas de componentes reutilizáveis
+- 🔄 Controle de versão com Git e BitBucket
+- 🤝 Colaboração em times ágeis (SCRUM & Kanban)
 - 💬 Comunicação clara, foco e empatia.
 
 > 💭 “Tecnologia não é apenas sobre código — é sobre conectar pessoas e transformar vidas.”
@@ -43,22 +43,22 @@ Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**,
 ## 🛠 Tech Stack
 
 #### Frontend
-[cite_start]React.js [cite: 49] [cite_start]· Next.js [cite: 49] [cite_start]· React Native [cite: 49] [cite_start]· Redux [cite: 49] [cite_start]· Context API [cite: 49] [cite_start]· HTML5 [cite: 49] [cite_start]· CSS3 [cite: 49]
+React.js · Next.js · React Native · Redux · Context API · HTML5 · CSS3
 
 #### Backend
-[cite_start]Node.js [cite: 53] [cite_start]· Express [cite: 53] [cite_start]· PHP [cite: 47]
+Node.js · Express · PHP
 
 #### Databases
-[cite_start]MongoDB [cite: 55] [cite_start]· PostgreSQL [cite: 55] [cite_start]· MySQL [cite: 55] [cite_start]· Firebase [cite: 55]
+MongoDB · PostgreSQL · MySQL · Firebase
 
 #### Styling
-[cite_start]Styled Components [cite: 51] [cite_start]· Emotion [cite: 51] [cite_start]· Tailwind CSS [cite: 51] [cite_start]· Material UI [cite: 51] [cite_start]· Sass/Less [cite: 51]
+Styled Components · Emotion · Tailwind CSS · Material UI · Sass/Less
 
 #### E-commerce
-[cite_start]Vtex IO [cite: 59] [cite_start]· Shopify [cite: 59] [cite_start]· Magento [cite: 59]
+Vtex IO · Shopify · Magento
 
 #### Tools & DevOps
-[cite_start]Git [cite: 57] [cite_start]· BitBucket [cite: 57] [cite_start]· Docker [cite: 57] [cite_start]· Webpack [cite: 57] [cite_start]· Vite [cite: 57]
+Git · BitBucket · Docker · Webpack · Vite
 
 <p align="center">
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
@@ -81,11 +81,11 @@ Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**,
 
 ## 💼 Professional Experience / Experiência Profissional
 
-- [cite_start]👨‍💻 **Analista e Desenvolvedor Full Stack — 99freelas**  *(Abr 2019 – Presente)*
-- [cite_start]💻 **Engenheiro Full Stack Web — Kentricos** [cite: 17] *(Out 2023 – Set 2024)*
-- [cite_start]📱 **Desenvolvedor Front End Pleno — Quality Digital** [cite: 24] *(Fev 2024 – Nov 2024)*
-- [cite_start]🛍️ **Desenvolvedor Front End Pleno — Codeby (Vtex IO & Shopify)** [cite: 29] *(Ago 2022 – Fev 2023)*
-- [cite_start]🛒 **Desenvolvedor Front-End — Moovin e-commerce** [cite: 37] *(Mar 2021 – Mar 2022)*
+- 👨‍💻 **Analista e Desenvolvedor Full Stack — 99freelas** *(Abr 2019 – Presente)*
+- 💻 **Engenheiro Full Stack Web — Kentricos** *(Out 2023 – Set 2024)*
+- 📱 **Desenvolvedor Front End Pleno — Quality Digital** *(Fev 2024 – Nov 2024)*
+- 🛍️ **Desenvolvedor Front End Pleno — Codeby (Vtex IO & Shopify)** *(Ago 2022 – Fev 2023)*
+- 🛒 **Desenvolvedor Front-End — Moovin e-commerce** *(Mar 2021 – Mar 2022)*
 
 ---
 
@@ -103,9 +103,9 @@ Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**,
 ### 💼 Professional Work
 | Projeto | Descrição |
 |----------|------------|
-| [Nome do Projeto Profissional] | [cite_start]Sistema que você construiu e o impacto que causou (Ex: Design System da Moovin) [cite: 39] |
-| [Nome do Projeto Profissional] | [cite_start]Outro projeto relevante (Ex: Biblioteca de componentes da 99freelas) [cite: 14] |
-| [Nome do Projeto Profissional] | [cite_start]Projeto de e-commerce (Ex: Otimização de performance que aumentou conversão) [cite: 13] |
+| [Nome do Projeto Profissional] | Sistema que você construiu e o impacto que causou (Ex: Design System da Moovin) |
+| [Nome do Projeto Profissional] | Outro projeto relevante (Ex: Biblioteca de componentes da 99freelas) |
+| [Nome do Projeto Profissional] | Projeto de e-commerce (Ex: Otimização de performance que aumentou conversão) |
 
 
 ---
@@ -134,9 +134,9 @@ Currently, I work with **React.js, Next.js, React Native, Node.js, TypeScript**,
 
 ## 🌎 Let's Connect / Contato
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
-// - 🌐 [Portfolio]([SEU_LINK_PORTFOLIO_AQUI])  
-// - 💼 [99Freelas]([SEU_LINK_99FREELAS_AQUI])  
-- [cite_start]📧 Email: **marcusvrosal@gmail.com** [cite: 3]
+- 🌐 [Portfolio]([SEU_LINK_PORTFOLIO_AQUI])  
+- 💼 [99Freelas]([SEU_LINK_99FREELAS_AQUI])  
+- 📧 Email: **marcusvrosal@gmail.com**
 
 ---
 
