@@ -67,7 +67,7 @@ Git · BitBucket · Docker · Webpack · Vite
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS"/>
+  <img height="38" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" alt="Tailwind CSS">   
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
@@ -106,29 +106,6 @@ Git · BitBucket · Docker · Webpack · Vite
 | [Nome do Projeto Profissional] | Sistema que você construiu e o impacto que causou (Ex: Design System da Moovin) |
 | [Nome do Projeto Profissional] | Outro projeto relevante (Ex: Biblioteca de componentes da 99freelas) |
 | [Nome do Projeto Profissional] | Projeto de e-commerce (Ex: Otimização de performance que aumentou conversão) |
-
-
----
-
-## 📊 GitHub Insights
-<details>
-  <summary>Show stats / Mostrar estatísticas</summary>
-  <br>
-  
-  ### Conta Principal: marcusrosadev
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marcusrosadev&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrosadev&layout=compact&theme=transparent&hide_border=false" alt="Top languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcusrosadev&theme=tokyonight_duo&hide_border=true" alt="Streak stats">
-  
-  <br>
-  
-  ### Conta Antiga: marcusrosaa
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marcusrosaa&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrosaa&layout=compact&theme=transparent&hide_border=false" alt="Top languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcusrosaa&theme=tokyonight_duo&hide_border=true" alt="Streak stats">
-</details>
 
 ---
 
