@@ -114,7 +114,7 @@ Git · BitBucket · Docker · Webpack · Vite
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
 - 🌐 [Portfolio]([SEU_LINK_PORTFOLIO_AQUI])  
 - 💼 [99Freelas]([SEU_LINK_99FREELAS_AQUI])  
-- 📧 Email: **marcusvrosal@gmail.com**
+- 📧 Email: **marcusvrosa1@gmail.com**
 
 ---
 
