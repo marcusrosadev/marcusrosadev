@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/marcusrosaa" target="_blank">
+    <img alt="Old Github" src="https://img.shields.io/badge/Portfolio-00DF88?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="[SEU_LINK_PORTFOLIO_AQUI]" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00DF88?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
