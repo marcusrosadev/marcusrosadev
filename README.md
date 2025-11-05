@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Marcus%20Vinícius%20Santos%20da%20Rosa%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20React.js%20•%20Next.js%20•%20Node.js%20•%20React%20Native&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcusrosadev/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="[SEU_LINK_PORTFOLIO_AQUI]" target="_blank">
