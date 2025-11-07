@@ -90,26 +90,6 @@ Git · BitBucket · Docker · Webpack · Vite
 
 ---
 
-## 🌟 Featured Projects / Projetos em Destaque
-
-**ADICIONE SEUS PROJETOS AQUI!**
-
-### 🧩 Personal Projects
-| Projeto | Descrição |
-|----------|------------|
-| [Nome do Projeto Pessoal] | Breve descrição do projeto e as tecnologias que você usou. |
-| [Nome do Projeto Pessoal] | Breve descrição do projeto e as tecnologias que você usou. |
-| [Nome do Projeto Pessoal] | Breve descrição do projeto e as tecnologias que você usou. |
-
-### 💼 Professional Work
-| Projeto | Descrição |
-|----------|------------|
-| [Nome do Projeto Profissional] | Sistema que você construiu e o impacto que causou (Ex: Design System da Moovin) |
-| [Nome do Projeto Profissional] | Outro projeto relevante (Ex: Biblioteca de componentes da 99freelas) |
-| [Nome do Projeto Profissional] | Projeto de e-commerce (Ex: Otimização de performance que aumentou conversão) |
-
----
-
 ## 🌎 Let's Connect / Contato
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
 - 🌐 [Portfolio]([SEU_LINK_PORTFOLIO_AQUI])  
